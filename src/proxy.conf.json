@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://lucifer-quotes.vercel.app",
+      "secure": false
+    }
+  }
