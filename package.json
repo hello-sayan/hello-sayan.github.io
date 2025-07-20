@@ -1,10 +1,10 @@
 {
-  "name": "profile-app",
+  "name": "hello-sayan-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --output-path=docs/ --base-href=/profile/",
+    "build": "ng build --output-path=docs/ --base-href=/hello-sayan/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },

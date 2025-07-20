@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "profile-app": {
+    "hello-sayan-app": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -64,10 +64,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "profile-app:build:production"
+              "buildTarget": "hello-sayan-app:build:production"
             },
             "development": {
-              "buildTarget": "profile-app:build:development"
+              "buildTarget": "hello-sayan-app:build:development"
             }
           },
           "defaultConfiguration": "development"
